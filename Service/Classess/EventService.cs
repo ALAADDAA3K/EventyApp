@@ -4,5 +4,6 @@ namespace EventyApp.Service.Classess
 {
     public class EventService : IEventService  
     {
+
     }
 }
